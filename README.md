@@ -71,12 +71,4 @@ Soy una desarrolladora apasionada por el **Frontend** y el **diseño UX**. Me en
 * **Backend & APIs:** Desarrollo de APIs robustas utilizando **Node.js** y **Spring Boot**.
 * **Gestión de Datos:** Conocimiento y manejo de bases de datos relacionales (**MySQL**) y NoSQL (**MongoDB**).
 * **Cloud:** Implementación y despliegue de proyectos en plataformas como **Firebase** y **AWS**.
-
----
-
-### 🌐 Conéctate Conmigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/TU_PERFIL_DE_LINKEDIN](https://www.linkedin.com/in/danna-paola-s%C3%A1nchez-mart%C3%ADnez-371774200))
-[![Correo Electrónico](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dannapaolas756@gmail.com)
-
 ---
