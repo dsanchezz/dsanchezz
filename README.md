@@ -29,6 +29,45 @@ Soy una desarrolladora apasionada por el **Frontend** y el **diseño UX**. Me en
   </tr>
 </table>
 
+#### Lenguajes
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C%23 Badge"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Badge"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart Badge"/>
+    </td>
+  </tr>
+</table>
+
+#### Frameworks & Móvil
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo Badge"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA Badge"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Yup-0F172A?style=for-the-badge&logo=javascript&logoColor=white" alt="Yup Badge"/>
+    </td>
+  </tr>
+</table>
+
 #### Backend & Bases de Datos
 <table>
   <tr>
@@ -62,6 +101,27 @@ Soy una desarrolladora apasionada por el **Frontend** y el **diseño UX**. Me en
   </tr>
 </table>
 
+#### Herramientas
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS_Code Badge"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Badge"/>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ### 💡 Habilidades Clave
@@ -70,5 +130,7 @@ Soy una desarrolladora apasionada por el **Frontend** y el **diseño UX**. Me en
 * **Diseño UI/UX:** Dominio de **Figma** para la creación de prototipos y flujos de usuario intuitivos y atractivos.
 * **Backend & APIs:** Desarrollo de APIs robustas utilizando **Node.js** y **Spring Boot**.
 * **Gestión de Datos:** Conocimiento y manejo de bases de datos relacionales (**MySQL**) y NoSQL (**MongoDB**).
+* **Lenguajes:** Java, C#, C++, Dart y TypeScript, además de JavaScript.
+* **Móvil multiplataforma:** Apps con **Flutter** y **React Native**.
 * **Cloud:** Implementación y despliegue de proyectos en plataformas como **Firebase** y **AWS**.
 ---
