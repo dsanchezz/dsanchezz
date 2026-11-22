@@ -1,136 +1,71 @@
-# 👋 ¡Hola! Soy Danna Paola Sánchez Martínez
+<div align="center">
 
-### 🚀 Software Developer | Estudiante de Ingeniería y Gestión de Software
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:6366F1,100:EC4899&text=Danna%20S%C3%A1nchez&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20Frontend%20%C2%B7%20UX%20%C2%B7%20Mobile&descAlignY=58&descSize=18" alt="Danna Sánchez"/>
 
-Soy una desarrolladora apasionada por el **Frontend** y el **diseño UX**. Me encanta crear interfaces atractivas y funcionales, asegurando una gran experiencia de usuario tanto en entornos web como móviles.
+<a href="https://github.com/dsanchezz"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=6366F1&center=true&vCenter=true&width=520&lines=Estudiante+de+Ing.+y+Gesti%C3%B3n+de+Software;Apasionada+por+el+Frontend+y+el+dise%C3%B1o+UX;Construyo+apps+web+y+m%C3%B3viles" alt="Typing SVG"/></a>
 
----
+<br/>
 
-### 💻 Stack de Tecnologías y Herramientas
+📍 México &nbsp;·&nbsp; 🏢 Tekvan &nbsp;·&nbsp; 🎓 UTEZ
 
-#### Frontend & Mobile
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native Badge"/>
-    </td>
-  </tr>
-</table>
-
-#### Lenguajes
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C%23 Badge"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Badge"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart Badge"/>
-    </td>
-  </tr>
-</table>
-
-#### Frameworks & Móvil
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo Badge"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA Badge"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Yup-0F172A?style=for-the-badge&logo=javascript&logoColor=white" alt="Yup Badge"/>
-    </td>
-  </tr>
-</table>
-
-#### Backend & Bases de Datos
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot Badge"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
-    </td>
-  </tr>
-</table>
-
-#### Diseño & Cloud
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Badge"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge"/>
-    </td>
-  </tr>
-</table>
-
-#### Herramientas
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS_Code Badge"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Badge"/>
-    </td>
-  </tr>
-</table>
+</div>
 
 ---
 
-### 💡 Habilidades Clave
+### ✨ Sobre mí
 
-* **Desarrollo Frontend/Mobile:** Experiencia en la construcción de interfaces dinámicas y responsivas con **React** y **React Native**.
-* **Diseño UI/UX:** Dominio de **Figma** para la creación de prototipos y flujos de usuario intuitivos y atractivos.
-* **Backend & APIs:** Desarrollo de APIs robustas utilizando **Node.js** y **Spring Boot**.
-* **Gestión de Datos:** Conocimiento y manejo de bases de datos relacionales (**MySQL**) y NoSQL (**MongoDB**).
-* **Lenguajes:** Java, C#, C++, Dart y TypeScript, además de JavaScript.
-* **Móvil multiplataforma:** Apps con **Flutter** y **React Native**.
-* **Cloud:** Implementación y despliegue de proyectos en plataformas como **Firebase** y **AWS**.
+Soy desarrolladora apasionada por el **Frontend** y el **diseño UX**. Me encanta crear interfaces atractivas y funcionales, con una gran experiencia de usuario tanto en web como en móvil.
+
 ---
+
+### 🧰 Stack
+
+<div align="center">
+
+**Frontend & Mobile**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,flutter,dart&perline=7" alt="Frontend y móvil"/>
+
+**Backend & Bases de datos**
+
+<img src="https://skillicons.dev/icons?i=nodejs,spring,java,cs,cpp,mysql,mongodb&perline=7" alt="Backend y bases de datos"/>
+
+**Diseño, Cloud & Herramientas**
+
+<img src="https://skillicons.dev/icons?i=figma,firebase,aws,git,github,postman,vscode,unity&perline=8" alt="Diseño, cloud y herramientas"/>
+
+</div>
+
+---
+
+### 💡 Habilidades clave
+
+| | |
+|---|---|
+| 🎨 **UI/UX** | Prototipos y flujos de usuario en **Figma** |
+| 📱 **Frontend / Mobile** | Interfaces responsivas con **React**, **React Native** y **Flutter** |
+| ⚙️ **Backend & APIs** | **Node.js** y **Spring Boot** |
+| 🗄️ **Datos** | **MySQL** y **MongoDB** |
+| ☁️ **Cloud** | Despliegue en **Firebase** y **AWS** |
+| 🧪 **Lenguajes** | JavaScript, TypeScript, Java, C#, C++ y Dart |
+
+---
+
+### 📊 GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dsanchezz&show_icons=true&hide_border=true&theme=transparent&title_color=6366F1&icon_color=EC4899&text_color=8b949e" alt="Estadísticas"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsanchezz&layout=compact&hide_border=true&theme=transparent&title_color=6366F1&text_color=8b949e" alt="Lenguajes principales"/>
+
+</div>
+
+### 📈 Actividad
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dsanchezz&hide_border=true&bg_color=00000000&color=6366F1&line=EC4899&point=EC4899&area=true&area_color=6366F1&title_color=6366F1" width="100%" alt="Gráfico de actividad"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:6366F1,100:EC4899&section=footer" width="100%" alt=""/>
