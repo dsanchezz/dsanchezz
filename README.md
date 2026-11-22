@@ -47,14 +47,4 @@ Soy desarrolladora apasionada por el **Frontend** y el **diseño UX**. Me encant
 | ☁️ **Cloud** | Despliegue en **Firebase**, **AWS** y **Vercel** |
 | 🧪 **Lenguajes** | JavaScript, TypeScript, Java, C#, C++ y Dart |
 
----
-
-### 📊 Lenguajes más usados
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsanchezz&layout=compact&hide_border=true&theme=transparent&title_color=6366F1&text_color=8b949e" alt="Lenguajes principales"/>
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:6366F1,100:EC4899&section=footer" width="100%" alt=""/>
