@@ -36,6 +36,43 @@ Soy desarrolladora apasionada por el **Frontend** y el **diseño UX**. Me encant
 
 ---
 
+### 📊 Análisis de datos
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" width="48" height="48" alt="Python"/><br/><sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/><br/><sub><b>Pandas</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/><br/><sub><b>NumPy</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib"/><br/><sub><b>Matplotlib</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/plotly/plotly-original.svg" width="48" height="48" alt="Plotly"/><br/><sub><b>Plotly</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter"/><br/><sub><b>Jupyter</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/anaconda/anaconda-original.svg" width="48" height="48" alt="Anaconda"/><br/><sub><b>Anaconda</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="scikit-learn"/><br/><sub><b>scikit-learn</b></sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ### 💡 Habilidades clave
 
 | | |
@@ -45,6 +82,7 @@ Soy desarrolladora apasionada por el **Frontend** y el **diseño UX**. Me encant
 | ⚙️ **Backend & APIs** | **Node.js** y **Spring Boot** |
 | 🗄️ **Datos** | **MySQL** y **MongoDB** |
 | ☁️ **Cloud** | Despliegue en **Firebase**, **AWS** y **Vercel** |
+| 📊 **Análisis de datos** | Limpieza, análisis y visualización con **Python**, **Pandas**, **NumPy**, **Matplotlib** y **Jupyter** (entorno **Anaconda**) |
 | 🧪 **Lenguajes** | JavaScript, TypeScript, Java, C#, C++ y Dart |
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:6366F1,100:EC4899&section=footer" width="100%" alt=""/>
