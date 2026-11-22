@@ -44,7 +44,7 @@ Soy desarrolladora apasionada por el **Frontend** y el **diseño UX**. Me encant
 | 📱 **Frontend / Mobile** | Interfaces responsivas con **React**, **React Native** y **Flutter** |
 | ⚙️ **Backend & APIs** | **Node.js** y **Spring Boot** |
 | 🗄️ **Datos** | **MySQL** y **MongoDB** |
-| ☁️ **Cloud** | Despliegue en **Firebase** y **AWS** |
+| ☁️ **Cloud** | Despliegue en **Firebase**, **AWS** y **Vercel** |
 | 🧪 **Lenguajes** | JavaScript, TypeScript, Java, C#, C++ y Dart |
 
 ---
