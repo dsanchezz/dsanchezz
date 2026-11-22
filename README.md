@@ -2,11 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:6366F1,100:EC4899&text=Danna%20S%C3%A1nchez&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20Frontend%20%C2%B7%20UX%20%C2%B7%20Mobile&descAlignY=58&descSize=18" alt="Danna Sánchez"/>
 
-<a href="https://github.com/dsanchezz"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=6366F1&center=true&vCenter=true&width=520&lines=Estudiante+de+Ing.+y+Gesti%C3%B3n+de+Software;Apasionada+por+el+Frontend+y+el+dise%C3%B1o+UX;Construyo+apps+web+y+m%C3%B3viles" alt="Typing SVG"/></a>
+<a href="https://github.com/dsanchezz"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=6366F1&center=true&vCenter=true&width=520&lines=Ingeniera+en+Desarrollo+y+Gesti%C3%B3n+de+Software;Apasionada+por+el+Frontend+y+el+dise%C3%B1o+UX;Construyo+apps+web+y+m%C3%B3viles" alt="Typing SVG"/></a>
 
 <br/>
-
-📍 México &nbsp;·&nbsp; 🏢 Tekvan &nbsp;·&nbsp; 🎓 UTEZ
 
 </div>
 
